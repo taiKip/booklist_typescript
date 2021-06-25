@@ -1,0 +1,11 @@
+.nav-bar{
+    background-color: var(--tertiary-bg);
+    color: var(--text-color-normal);
+    padding:20px 0 20px 0;
+    border-top: none;
+}
+.nav-bar h1{
+    color: var(--text-color-title);
+    font-size: 3em;
+    letter-spacing: 5px;
+}

@@ -1,0 +1,8 @@
+.book-item{
+    background: var(--tertiary-bg);
+    color: var(--text-color-normal);
+    border-radius: 5px;
+    padding: 15px 8px;
+    text-align: start;
+  
+}

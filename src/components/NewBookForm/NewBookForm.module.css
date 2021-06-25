@@ -1,0 +1,24 @@
+.form{
+padding: 20px;
+}
+.form input{
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border:none;
+    background: #0b0c10a4;
+    font-size: 1.2em;
+    padding: 6px 5px;
+    color: var(--text-color-normal);
+}
+.form button{
+    padding: 6px 8px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    border:none;
+    transition: all 0.3s;
+}
+.form button:active{
+transform: scale(1.2);
+}

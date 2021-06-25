@@ -1,0 +1,10 @@
+.book-list{
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+    padding:20px;
+    list-style: none;
+}
+.book-list:active{
+    text-decoration: line-through;
+}
